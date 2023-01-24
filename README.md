@@ -1,3 +1,5 @@
+[![Build Status](http://192.168.2.36/buildStatus/icon?job=SCM)](http://192.168.2.36/job/SCM/)
+
 # Jenkins Essential Training
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
